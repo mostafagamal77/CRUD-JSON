@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": "c66e",
+      "firstName": "Rylee",
+      "lastName": "Bruce",
+      "email": "wemiwe@mailinator.com",
+      "dob": "2011-09-13T22:00:00.000Z",
+      "gender": "male",
+      "company": "Grant Foley Co",
+      "education": "Bachelor's Degree",
+      "experience": 89,
+      "package": 56
+    }
+  ]
+}
