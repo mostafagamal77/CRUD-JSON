@@ -2,6 +2,18 @@
   "employees": [
     {
       "id": "c66e",
+      "firstName": "Mostafa",
+      "lastName": "Gamal",
+      "email": "mostafagamal7030@gmail.com",
+      "dob": "2001-03-7T22:00:00.000Z",
+      "gender": "male",
+      "company": "Grant Foley Co",
+      "education": "Bachelor's Degree",
+      "experience": 1,
+      "package": 50
+    },
+    {
+      "id": "c66e",
       "firstName": "Rylee",
       "lastName": "Bruce",
       "email": "wemiwe@mailinator.com",
@@ -11,6 +23,78 @@
       "education": "Bachelor's Degree",
       "experience": 89,
       "package": 56
+    },
+    {
+      "firstName": "Lareina",
+      "lastName": "Summers",
+      "email": "zypa@mailinator.com",
+      "dob": "1989-05-04T22:00:00.000Z",
+      "gender": "female",
+      "company": "Bauer and Kelly Plc",
+      "education": "Master's Degree",
+      "experience": 79,
+      "package": 46,
+      "id": "XBJNfVz"
+    },
+    {
+      "firstName": "Oliver",
+      "lastName": "Castillo",
+      "email": "xagucoj@mailinator.com",
+      "dob": "2014-01-26T22:00:00.000Z",
+      "gender": "male",
+      "company": "David Conley Co",
+      "education": "Student",
+      "experience": 55,
+      "package": 7,
+      "id": "rehJRxS"
+    },
+    {
+      "firstName": "Lynn",
+      "lastName": "Buckner",
+      "email": "lywyq@mailinator.com",
+      "dob": "1974-02-18T22:00:00.000Z",
+      "gender": "female",
+      "company": "Strickland Stevenson Inc",
+      "education": "Doctor of Education",
+      "experience": 56,
+      "package": 66,
+      "id": "tAXCC_B"
+    },
+    {
+      "firstName": "Harding",
+      "lastName": "Norman",
+      "email": "pafyqen@mailinator.com",
+      "dob": "1988-04-04T22:00:00.000Z",
+      "gender": "male",
+      "company": "Finley Farley Inc",
+      "education": "Master's Degree",
+      "experience": 24,
+      "package": 1,
+      "id": "5YAhHoY"
+    },
+    {
+      "firstName": "Ignacia",
+      "lastName": "Gay",
+      "email": "niwax@mailinator.com",
+      "dob": "1970-07-17T21:00:00.000Z",
+      "gender": "female",
+      "company": "Puckett and Guthrie Inc",
+      "education": "Bachelor's Degree",
+      "experience": 5,
+      "package": 62,
+      "id": "Lw9Lv9L"
+    },
+    {
+      "firstName": "Pandora",
+      "lastName": "Bryant",
+      "email": "banidet@mailinator.com",
+      "dob": "1995-07-22T21:00:00.000Z",
+      "gender": "male",
+      "company": "Pittman Kemp Co",
+      "education": "Bachelor's Degree",
+      "experience": 92,
+      "package": 91,
+      "id": "ktqLHlr"
     }
   ]
 }
